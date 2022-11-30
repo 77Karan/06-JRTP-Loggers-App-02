@@ -1,0 +1,6 @@
+2021-11-25 01:29:20.052  INFO 17272 --- [main] in.ashokit.Application                   : Starting Application using Java 1.8.0_291 on LAPTOP-OKQCK4G6 with PID 17272 (C:\JAVA REAL TIME PROJECT\06-JRTP-Loggers-App-02\target\classes started by harsh in C:\JAVA REAL TIME PROJECT\06-JRTP-Loggers-App-02)
+2021-11-25 01:29:20.054  INFO 17272 --- [main] in.ashokit.Application                   : No active profile set, falling back to default profiles: default
+2021-11-25 01:29:20.480  INFO 17272 --- [main] in.ashokit.Application                   : Started Application in 0.762 seconds (JVM running for 1.42)
+2021-11-25 01:29:20.496  INFO 17272 --- [main] in.ashokit.service.UserService           : ***saveUser() --> statred
+2021-11-25 01:29:20.497  INFO 17272 --- [main] in.ashokit.dao.UserDao                   : Record Inserting into DB via savetoDB()
+2021-11-25 01:29:20.497  INFO 17272 --- [main] in.ashokit.service.UserService           : ***saveUser() --> ended
